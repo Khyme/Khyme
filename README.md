@@ -3,6 +3,8 @@
 I am Kim Schuhmacher, 🖥️ by day, 🩺 by night, and 🏇 in between.
 Based in Paris, France 🇫🇷.
 
+About my avatar : https://www.nasa.gov/image-detail/approaching-marquette-island/
+
 <!--
 **Khyme/Khyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
